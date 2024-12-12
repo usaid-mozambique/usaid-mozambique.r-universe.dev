@@ -2,5 +2,9 @@
     {
         "package": "sismar",
         "url": "https://github.com/usaid-mozambique/sismar"
+    },
+        {
+        "package": "sonata",
+        "url": "https://github.com/usaid-mozambique/sonata"
     }
 ]
