@@ -4,6 +4,10 @@
         "url": "https://github.com/usaid-mozambique/sismar"
     },
     {
+        "package": "inspector",
+        "url": "https://github.com/usaid-mozambique/inspector"
+    },
+    {
         "package": "sonata",
         "url": "https://github.com/usaid-mozambique/sonata"
     }
